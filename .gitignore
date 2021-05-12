@@ -1,7 +1,0 @@
-*.jpg
-*.npy
-MultiModal-Tagging/dataset/
-dataset/
-*.pyc
-*.[oa]
-*~  
