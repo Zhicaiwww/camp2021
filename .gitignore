@@ -1,4 +1,5 @@
 *.jpg
 *.npy
-VideoStructuring_my/VideoStructuring/MultiModal-Tagging/dataset/
-VideoStructuring_my/VideoStructuring/dataset/
+MultiModal-Tagging/dataset/
+dataset/
+*.pyc
